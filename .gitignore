@@ -3,6 +3,7 @@
 # dependencies
 /marioplan/node_modules
 /marioplan/functions/node_modules
+/marioplan/package-lock
 
 # testing
 /marioplan/coverage
