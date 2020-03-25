@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "dev": "mangement-tools-app",
+    "default": "mangement-tools-app"
+  }
+}
